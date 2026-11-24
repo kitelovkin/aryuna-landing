@@ -1,2 +1,3 @@
-# aryuna-landing
-Aryuna public landing page (static)
+# Aryuna landing
+
+Canonical URL: https://kitelovkin.github.io/
